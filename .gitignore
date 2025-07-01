@@ -1,0 +1,10 @@
+*.o
+*.ra
+temp/
+experiment/
+.vscode
+log 
+*.csv
+server
+data/
+.vscode/
