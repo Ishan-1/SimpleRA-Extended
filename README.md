@@ -62,7 +62,7 @@ Post compilation, an executable named ```server``` will be created in the ```src
 **Description:** Removes duplicate rows from a relation, assigning the result to a new relation.
 
 ### JOIN
-**Syntax:** `relation_name <- JOIN relation_name, relation_name ON column_name binop column_name`
+**Syntax:** `relation_name <- JOIN relation_name , relation_name ON column_name , column_name`
 
 **Description:** Performs an inner join between two relations based on a specified condition, assigning the result to a new relation.
 
